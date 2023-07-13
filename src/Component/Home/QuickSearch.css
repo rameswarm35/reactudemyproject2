@@ -1,0 +1,81 @@
+.headin1_card1{
+  margin-left: 35px;
+ margin-bottom: 40px;
+ margin-top:30px;
+
+
+}
+
+.cardspace2{
+
+ padding-top: 30px;
+}
+
+.card2{
+width:250px;
+
+}
+
+
+.card2.zoom {
+
+
+ transition: transform .5s;
+
+
+}
+
+.card2.zoom:hover {
+
+ transform: scale(1.1); 
+}
+.categorydata{
+  color: black;
+  text-decoration: none;
+
+}
+
+.cardnamespc{
+
+  margin-top: 20px;
+  margin-bottom: 60px;
+}
+
+.catedesign{
+  margin-left: 140px;
+  position: absolute;
+}
+.catemusic{
+  
+  margin-left: 445px;
+  position: absolute;
+}
+.catemarket{
+  margin-top: 244px;
+  margin-left: 730px;
+  position: absolute;
+}
+.cateitsoft{
+  margin-left: 710px;
+  position: absolute;
+}
+.catepersonaldev{
+  margin-left: 990px;
+  position: absolute;
+}
+.catebusnes{
+  margin-top: 244px;
+  margin-left: 1030px;
+  position: absolute;
+}
+.catephoto{
+  margin-top: 244px;
+  margin-left: 117px;
+  position: absolute;
+}
+.catedevelop{
+  margin-top: 244px;
+  margin-left: 420px;
+  position: absolute;
+}
+

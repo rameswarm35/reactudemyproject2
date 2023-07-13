@@ -1,0 +1,108 @@
+/* header */
+
+
+.navImage{
+    margin-top: -15px;
+     
+  }
+  
+  
+  .navbar-nav li:hover > ul.dropdown-menu {
+      
+      display: block;
+  }
+  .dropdown-submenu {
+     
+      position:relative;
+  }
+  .dropdown-submenu > .dropdown-menu {
+      top: 0;
+      left: 100%;
+      margin-top:-6px;
+  }
+  
+  
+   .dropdown-menu > li > a:hover:after {
+      text-decoration: underline;
+      transform: rotate(-90deg);
+  }  
+  
+  
+  
+  .searchOne {
+      border-radius: 25px;
+      border: 1px solid #313030;
+      padding: 20px; 
+      width: 400px;
+      height: 20px;
+      margin-left:20px;  
+      padding-left: 50px;
+    }
+  
+  .udbusinesBton{
+  
+      margin-left: 10px;
+  }
+  .udemybusinsCard{
+      width: 18rem;
+  }
+  
+  .teachudemyCard{
+      width: 18rem;
+  }
+  
+  .shopingcartNav{
+  
+      margin-left: 10px;
+  
+  }
+  .shopingcartfaIcon{
+  
+      font-size:24px
+  
+  }
+  
+  
+   .siOne {
+      position: absolute;
+      padding-top: 12px;
+      padding-left: 40px;
+      color: #828282;
+    }
+  
+    .cardOne{
+       position: absolute;
+       padding-top: 20px;
+       z-index:1111;
+    }
+  
+    .cardtextOne{
+      width: 100%;
+    }
+  
+  .shopingcartOne{
+      text-decoration: none;
+      color: blue;
+  }
+  
+  .navitemLogin{
+      margin-left:20px;
+  
+  }
+  
+  .loginbtnOne{
+      border: 1px solid #313030;
+      
+      
+  }
+  
+  .navitemsignUp{
+      margin-left:15px;
+  
+  }
+  
+  .navitemsLangage{
+  
+      margin-left: 10px;
+  
+  }
